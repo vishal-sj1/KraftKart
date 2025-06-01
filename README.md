@@ -33,7 +33,7 @@ admin/frontend/: Vite + React frontend for the admin interface.
 ../customer/backend/: Node.js/Express server for customer APIs.
 ../customer/frontend/: Vite + React frontend for the customer interface.
 
-
+Note: Don't forget to create .env files consisting your own passwords, API keys, client id and secrets
 
 Prerequisites
 Before setting up the project, ensure you have the following installed on your machine:
