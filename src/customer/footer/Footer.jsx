@@ -67,7 +67,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center justify-center sm:justify-start space-x-3">
                 <CallIcon className="h-5 w-5 text-[#FFD166]" />
-                <a href="tel:+919322212711" className="text-[#FFD166] hover:text-[#FFFFFF] transition-colors">(91) 9322212711</a>
+                <a href="tel:+911111111111" className="text-[#FFD166] hover:text-[#FFFFFF] transition-colors">(91) 1234567811</a>
               </li>
             </ul>
           </div>
