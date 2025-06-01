@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <GoogleOAuthProvider clientId="716312571368-0h8t9lrlq4r4tai72outs5bokdsk54fp.apps.googleusercontent.com">
+        <GoogleOAuthProvider clientId="your-oauth-client-id">
           <AuthProvider>
             <div className="flex flex-col min-h-screen">
               <Header />
